@@ -1,0 +1,39 @@
+.gridD{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 0px; ;
+}
+
+.calB{
+    width: 200px;
+    height: 300px;
+    border-radius: 5px;
+    background-color: black;
+    border: none;
+    color: white;
+}
+
+button{
+    border: 1px solid green;
+}
+ 
+.delete{
+    background-color: red;
+    color: red;
+}
+.equal{
+    background-color: green;
+    color: white;
+}
+.grid2{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap:0px;
+}
+.del{
+    background-color: red;
+}
+.ggt{
+    background-color: rgb(231, 215, 196);
+}
+
